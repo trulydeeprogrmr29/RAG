@@ -1,0 +1,27 @@
+Machine Learning Fundamentals
+
+Machine Learning (ML) is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed. ML algorithms build mathematical models based on sample data, known as training data, to make predictions or decisions.
+
+Key Concepts:
+1. Supervised Learning: The algorithm learns from labeled training data
+   - Examples: Classification, Regression
+   - Common algorithms: Linear Regression, Random Forest, SVM
+
+2. Unsupervised Learning: The algorithm finds patterns in unlabeled data
+   - Examples: Clustering, Dimensionality Reduction
+   - Common algorithms: K-Means, PCA
+
+3. Reinforcement Learning: The algorithm learns through trial and error using rewards
+   - Examples: Game playing, Robotics
+   - Common algorithm: Q-Learning
+
+Popular ML Libraries:
+- Scikit-learn: Traditional ML algorithms
+- TensorFlow: Deep learning framework by Google
+- PyTorch: Deep learning framework by Facebook
+
+Applications:
+- Image recognition
+- Natural language processing
+- Recommendation systems
+- Fraud detection
