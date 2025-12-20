@@ -10,7 +10,7 @@ Easy to learn and read
  Versatile (Web, Data Science, AI, Automation)
 
 Next Steps:
- Learn functions and modules
- Explore Python standard library
- Try popular frameworks like Django or Flask
- Practice with real projects
+- Learn functions and modules
+- Explore Python standard library
+- Try popular frameworks like Django or Flask
+- Practice with real projects

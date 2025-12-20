@@ -5,3 +5,8 @@ pypdf
 pymupdf
 faiss-cpu
 python-dotenv
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
